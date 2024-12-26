@@ -1,5 +1,5 @@
 # NeuroKup
-Notebooks de los ganadores de NeuroKup
+Notebooks
 
 ## [ACM.ai UNSAAC](https://gatonymous.github.io/acm.ai-unsaac/)
 
